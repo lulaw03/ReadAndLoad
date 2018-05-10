@@ -1,0 +1,14 @@
+C:\Users\w401\Desktop\inputdata\inputdata\bin\Debug\inputdata.exe.config
+C:\Users\w401\Desktop\inputdata\inputdata\bin\Debug\inputdata.exe
+C:\Users\w401\Desktop\inputdata\inputdata\bin\Debug\inputdata.pdb
+C:\Users\w401\Desktop\inputdata\inputdata\obj\Debug\inputdata.csprojResolveAssemblyReference.cache
+C:\Users\w401\Desktop\inputdata\inputdata\obj\Debug\MainWindow.g.cs
+C:\Users\w401\Desktop\inputdata\inputdata\obj\Debug\App.g.cs
+C:\Users\w401\Desktop\inputdata\inputdata\obj\Debug\inputdata_MarkupCompile.cache
+C:\Users\w401\Desktop\inputdata\inputdata\obj\Debug\inputdata_MarkupCompile.lref
+C:\Users\w401\Desktop\inputdata\inputdata\obj\Debug\MainWindow.baml
+C:\Users\w401\Desktop\inputdata\inputdata\obj\Debug\inputdata.g.resources
+C:\Users\w401\Desktop\inputdata\inputdata\obj\Debug\inputdata.Properties.Resources.resources
+C:\Users\w401\Desktop\inputdata\inputdata\obj\Debug\inputdata.csproj.GenerateResource.Cache
+C:\Users\w401\Desktop\inputdata\inputdata\obj\Debug\inputdata.exe
+C:\Users\w401\Desktop\inputdata\inputdata\obj\Debug\inputdata.pdb
